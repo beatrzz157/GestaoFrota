@@ -1,0 +1,7 @@
+C:\Users\AEDAH\Desktop\trabalhos Beatriz\GestaoFrota\GestaoFrota\obj\Debug\GestaoFrota.csproj.AssemblyReference.cache
+C:\Users\AEDAH\Desktop\trabalhos Beatriz\GestaoFrota\GestaoFrota\obj\Debug\GestaoFrota.csproj.CoreCompileInputs.cache
+C:\Users\AEDAH\Desktop\trabalhos Beatriz\GestaoFrota\GestaoFrota\bin\Debug\GestaoFrota.exe.config
+C:\Users\AEDAH\Desktop\trabalhos Beatriz\GestaoFrota\GestaoFrota\bin\Debug\GestaoFrota.exe
+C:\Users\AEDAH\Desktop\trabalhos Beatriz\GestaoFrota\GestaoFrota\bin\Debug\GestaoFrota.pdb
+C:\Users\AEDAH\Desktop\trabalhos Beatriz\GestaoFrota\GestaoFrota\obj\Debug\GestaoFrota.exe
+C:\Users\AEDAH\Desktop\trabalhos Beatriz\GestaoFrota\GestaoFrota\obj\Debug\GestaoFrota.pdb
